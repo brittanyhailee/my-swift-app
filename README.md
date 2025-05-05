@@ -2,11 +2,11 @@
 Submitted by: Brittany Chan
 
 who-am-i is an app that tells users about:
-1. my name
-2. school im currently attending
-3. what i want to be
+1. my name ૮ ˶ᵔ ᵕ ᵔ˶ ა
+2. school im currently attending ✎ᝰ.
+3. what i want to be ٩(^ᗜ^ )و ´- 
 
-Time spent: 1 hour spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
