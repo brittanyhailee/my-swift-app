@@ -16,6 +16,15 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
+<div>
+    <a href="https://www.loom.com/share/412b4fa0ed184c24a37973b357a080c9">
+      <p>Simulator - iPhone 16 - 4 May 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/412b4fa0ed184c24a37973b357a080c9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/412b4fa0ed184c24a37973b357a080c9-c0d230b5500a7a76-full-play.gif">
+    </a>
+  </div>
+ 
 https://www.loom.com/share/412b4fa0ed184c24a37973b357a080c9?sid=e8e798ca-b887-42ca-b046-f5e552c425c1
 
 
