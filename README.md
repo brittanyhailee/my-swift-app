@@ -47,7 +47,7 @@ that is focused on sending those updates. I hope to also include an automatic fe
 and can automatically notify others in the family that they are home. 
 
 ## Notes
-The challenge I experienced comes mainly from being new to the programming language. 
+The challenge I experienced comes mainly from being new to the programming language and changing the name of the app, as it wasn't intuitive. 
 
 ## License
 
